@@ -1,0 +1,763 @@
+[
+  {
+    "description": "    Feature Description",
+    "keyword": "Feature",
+    "name": "Holiday Insurance",
+    "line": 1,
+    "id": "holiday-insurance",
+    "tags": [],
+    "uri": "holidayInsurance.feature",
+    "elements": [
+      {
+        "id": "holiday-insurance;scenario-1-:-choose-insurance-type",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Scenario 1 : Choose Insurance Type",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Visit home page",
+            "result": {
+              "status": "passed",
+              "duration": 6611000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "Customer clicks on holiday option",
+            "result": {
+              "status": "passed",
+              "duration": 7594000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Open quote page",
+            "result": {
+              "status": "passed",
+              "duration": 105000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-2-:-choose-trip-type-single-or-multiple",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Scenario 2 : Choose Trip Type Single or Multiple",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "Next button should be in Disabled Mode",
+            "result": {
+              "status": "passed",
+              "duration": 2378000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "Customer clicks on Single Trip",
+            "result": {
+              "status": "passed",
+              "duration": 285000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "Trip Title Should Display Text - Single Trip",
+            "result": {
+              "status": "passed",
+              "duration": 102000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "Next Button For Trip Types Should Be Enabled",
+            "result": {
+              "status": "passed",
+              "duration": 68000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "Customer clicks on Next Button",
+            "result": {
+              "status": "passed",
+              "duration": 278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Single Trip Content Should be hidden and Dates content should be visibe",
+            "result": {
+              "status": "passed",
+              "duration": 600000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-3-:-select-trip-dates-:-departure-date-options",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Scenario 3 : Select Trip Dates : Departure Date Options",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "Next Button For Dates Should Be Disabled",
+            "result": {
+              "status": "passed",
+              "duration": 992000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "Customer Clicks on Depart Date Options",
+            "result": {
+              "status": "passed",
+              "duration": 272000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "Date Picker Should Be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 56000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "Select Departure Date",
+            "result": {
+              "status": "passed",
+              "duration": 2025000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Departure Date Should Be Within a Year From Today",
+            "result": {
+              "status": "passed",
+              "duration": 2457000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-4-:-select-trip-dates-:-return-date-options",
+        "keyword": "Scenario",
+        "line": 25,
+        "name": "Scenario 4 : Select Trip Dates : Return Date Options",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "Customer Clicks on Return Date Options",
+            "result": {
+              "status": "passed",
+              "duration": 1125000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "Date Picker Should Be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 54000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "Select Return Date",
+            "result": {
+              "status": "passed",
+              "duration": 1137000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Dates Title Text Should Contain Trip Dates :  \"25/06/2022 to 17/09/2022\"",
+            "result": {
+              "status": "passed",
+              "duration": 92000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "Next Button For Dates Should Be Enabled",
+            "result": {
+              "status": "passed",
+              "duration": 76000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Return Date Should Be Within One Year From The Day Of Departure",
+            "result": {
+              "status": "passed",
+              "duration": 2891000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Customer Clicks On Next Button For Dates",
+            "result": {
+              "status": "passed",
+              "duration": 305000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "Dates Content Should be Hidden and Destination Content Should be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 565000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-5a-:-choose-destinatios-by-entering-country-names",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Scenario 5A : Choose Destinatios By Entering Country Names",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 36,
+            "name": "Click On Destination Options",
+            "result": {
+              "status": "passed",
+              "duration": 1720000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "Enter \"Ind\" in the Destination Input box",
+            "result": {
+              "status": "passed",
+              "duration": 513000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "Select India Option from List",
+            "result": {
+              "status": "passed",
+              "duration": 173000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Next Button For Destinations Should be Enabled",
+            "result": {
+              "status": "passed",
+              "duration": 106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "Enter \"Sin\" in the Destination Input box",
+            "result": {
+              "status": "passed",
+              "duration": 434000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "Select Singapore option From List",
+            "result": {
+              "status": "passed",
+              "duration": 158000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Travel Warning Should be displayed",
+            "result": {
+              "status": "passed",
+              "duration": 69000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "Destinations Title Text Should have Country Names Selected \"India, Singapore\"",
+            "result": {
+              "status": "passed",
+              "duration": 126000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 44,
+            "name": "Click on Next Button For Destinations",
+            "result": {
+              "status": "passed",
+              "duration": 299000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 45,
+            "name": "Destinations Content Should be Hidden and Treveller Content Should be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 656000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-5b-:-choose-destinatios-from-popular-destinations-list",
+        "keyword": "Scenario",
+        "line": 47,
+        "name": "Scenario 5B : Choose Destinatios From Popular Destinations List",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 48,
+            "name": "Click Back Button",
+            "result": {
+              "status": "passed",
+              "duration": 1523000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 49,
+            "name": "Delete All Already Selected Destinations",
+            "result": {
+              "status": "passed",
+              "duration": 898000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 50,
+            "name": "Select Japan,Thailand,India - \"JP\",\"TH\",\"IN\" From Popular Destinations",
+            "result": {
+              "status": "passed",
+              "duration": 574000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 51,
+            "name": "Travel Warning Should be displayed",
+            "result": {
+              "status": "passed",
+              "duration": 90000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 52,
+            "name": "Destinations Title Text Should have Country Names Selected \"Japan, Thailand, India\"",
+            "result": {
+              "status": "passed",
+              "duration": 113000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 53,
+            "name": "Delete \"Thailand\" From Selected Countries",
+            "result": {
+              "status": "passed",
+              "duration": 474000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 54,
+            "name": "Click on Next Button For Destinations",
+            "result": {
+              "status": "passed",
+              "duration": 344000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 55,
+            "name": "Destinations Content Should be Hidden and Treveller Content Should be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 605000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-6-:--no-of-travellers-to-be-covered",
+        "keyword": "Scenario",
+        "line": 57,
+        "name": "Scenario 6 :  No Of Travellers To Be Covered",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 58,
+            "name": "Travellers Content Should Be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 2957000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 59,
+            "name": "Next Button Should Be Disabled",
+            "result": {
+              "status": "passed",
+              "duration": 75000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 60,
+            "name": "Click Drop Down For Adults",
+            "result": {
+              "status": "passed",
+              "duration": 314000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 61,
+            "name": "Select \"2\" Adults From List",
+            "result": {
+              "status": "passed",
+              "duration": 298000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 62,
+            "name": "2 Adult Age Input Boxes Should Be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 235000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 63,
+            "name": "Should Display Message \"Enter adult traveller ages based on their age today. Adults must be aged between 18 and 118.\"",
+            "result": {
+              "status": "passed",
+              "duration": 69000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 64,
+            "name": "Enter \"45\" And \"41\" in Age Input Boxes",
+            "result": {
+              "status": "passed",
+              "duration": 1278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 65,
+            "name": "Click Drop Down For Kids",
+            "result": {
+              "status": "passed",
+              "duration": 293000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 66,
+            "name": "Select \"4\" Kids From List",
+            "result": {
+              "status": "passed",
+              "duration": 219000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 67,
+            "name": "Next Button Should be Enabled",
+            "result": {
+              "status": "passed",
+              "duration": 80000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 68,
+            "name": "Travellers Title Should have Text \"2 Adults , 4 Children\"",
+            "result": {
+              "status": "passed",
+              "duration": 155000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 69,
+            "name": "Click On Next Button",
+            "result": {
+              "status": "passed",
+              "duration": 295000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 70,
+            "name": "Travellers Content Should Be Hidden and Discount Content Should Be Visible",
+            "result": {
+              "status": "passed",
+              "duration": 675000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-7-:-select-if-southern-cross-member",
+        "keyword": "Scenario",
+        "line": 72,
+        "name": "Scenario 7 : Select If Southern Cross Member",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 73,
+            "name": "Click on Member Yes Option",
+            "result": {
+              "status": "passed",
+              "duration": 1106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 74,
+            "name": "Discount Title Should have Text \"5% Member Discount\"",
+            "result": {
+              "status": "passed",
+              "duration": 233000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 75,
+            "name": "Click on Member No Option",
+            "result": {
+              "status": "passed",
+              "duration": 468000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 76,
+            "name": "Discount Title Should have Text \"No Discount\"",
+            "result": {
+              "status": "passed",
+              "duration": 154000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 77,
+            "name": "Get Quote Button Should Be Enabled",
+            "result": {
+              "status": "passed",
+              "duration": 82000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "holiday-insurance;scenario-8-:-get-quote-summary",
+        "keyword": "Scenario",
+        "line": 79,
+        "name": "Scenario 8 : Get Quote Summary",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 80,
+            "name": "Clicks On Get Quote",
+            "result": {
+              "status": "passed",
+              "duration": 13206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 81,
+            "name": "Type Of Insurance Should Be \"Holiday\"",
+            "result": {
+              "status": "passed",
+              "duration": 8233000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 82,
+            "name": "Type Of Trip Should Be \"Single Trip\"",
+            "result": {
+              "status": "passed",
+              "duration": 102000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 83,
+            "name": "Date Of Trip Should Be \"25/06/2022 to 17/09/2022\"",
+            "result": {
+              "status": "passed",
+              "duration": 104000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 84,
+            "name": "Destinations Selected Should Be \"Japan, India\"",
+            "result": {
+              "status": "passed",
+              "duration": 304000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 85,
+            "name": "Number Of Travellers Should Be \"2 Adults , 4 Children\"",
+            "result": {
+              "status": "passed",
+              "duration": 408000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 86,
+            "name": "Discount Applied Should Be \"No Discount\"",
+            "result": {
+              "status": "passed",
+              "duration": 160000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 87,
+            "name": "Insurance Premium Should Be \"$967.25\"",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

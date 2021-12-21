@@ -1,0 +1,6 @@
+{
+    "webChromeSecurity": false,
+    "testFiles": "**/*.feature",
+    "baseUrl":"https://scti.co.nz/",
+    "defaultCommandTimeout":10000
+}
