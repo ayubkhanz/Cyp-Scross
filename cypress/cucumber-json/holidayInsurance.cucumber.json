@@ -23,7 +23,7 @@
             "name": "Visit home page",
             "result": {
               "status": "passed",
-              "duration": 10413000000
+              "duration": 8909000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "Customer clicks on holiday option",
             "result": {
               "status": "passed",
-              "duration": 3586000000
+              "duration": 5025000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "Next button should be in Disabled Mode",
             "result": {
               "status": "passed",
-              "duration": 4288000000
+              "duration": 2104000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "Customer clicks on Single Trip",
             "result": {
               "status": "passed",
-              "duration": 389000000
+              "duration": 557000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "Trip Title Should Display Text - Single Trip",
             "result": {
               "status": "passed",
-              "duration": 110000000
+              "duration": 81000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "Next Button For Trip Types Should Be Enabled",
             "result": {
               "status": "passed",
-              "duration": 73000000
+              "duration": 60000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "Customer clicks on Next Button",
             "result": {
               "status": "passed",
-              "duration": 379000000
+              "duration": 418000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "Single Trip Content Should be hidden and Dates content should be visibe",
             "result": {
               "status": "passed",
-              "duration": 596000000
+              "duration": 542000000
             }
           }
         ]
@@ -133,7 +133,7 @@
             "name": "Next Button For Dates Should Be Disabled",
             "result": {
               "status": "passed",
-              "duration": 1828000000
+              "duration": 1147000000
             }
           },
           {
@@ -143,7 +143,7 @@
             "name": "Customer Clicks on Depart Date Options",
             "result": {
               "status": "passed",
-              "duration": 325000000
+              "duration": 388000000
             }
           },
           {
@@ -153,7 +153,7 @@
             "name": "Date Picker Should Be Visible",
             "result": {
               "status": "passed",
-              "duration": 56000000
+              "duration": 20000000
             }
           },
           {
@@ -163,7 +163,7 @@
             "name": "Select Departure Date",
             "result": {
               "status": "passed",
-              "duration": 1404000000
+              "duration": 1767000000
             }
           },
           {
@@ -173,7 +173,7 @@
             "name": "Departure Date Should Be Within a Year From Today",
             "result": {
               "status": "passed",
-              "duration": 2689000000
+              "duration": 3263000000
             }
           }
         ]
@@ -193,7 +193,7 @@
             "name": "Customer Clicks on Return Date Options",
             "result": {
               "status": "passed",
-              "duration": 1387000000
+              "duration": 803000000
             }
           },
           {
@@ -203,7 +203,7 @@
             "name": "Date Picker Should Be Visible",
             "result": {
               "status": "passed",
-              "duration": 48000000
+              "duration": 14000000
             }
           },
           {
@@ -213,7 +213,7 @@
             "name": "Select Return Date",
             "result": {
               "status": "passed",
-              "duration": 1188000000
+              "duration": 1212000000
             }
           },
           {
@@ -223,7 +223,7 @@
             "name": "Dates Title Text Should Contain Trip Dates :  \"25/06/2022 to 17/09/2022\"",
             "result": {
               "status": "passed",
-              "duration": 104000000
+              "duration": 89000000
             }
           },
           {
@@ -233,7 +233,7 @@
             "name": "Next Button For Dates Should Be Enabled",
             "result": {
               "status": "passed",
-              "duration": 95000000
+              "duration": 56000000
             }
           },
           {
@@ -243,7 +243,7 @@
             "name": "Return Date Should Be Within One Year From The Day Of Departure",
             "result": {
               "status": "passed",
-              "duration": 2960000000
+              "duration": 3391000000
             }
           },
           {
@@ -253,7 +253,7 @@
             "name": "Customer Clicks On Next Button For Dates",
             "result": {
               "status": "passed",
-              "duration": 316000000
+              "duration": 433000000
             }
           },
           {
@@ -263,7 +263,7 @@
             "name": "Dates Content Should be Hidden and Destination Content Should be Visible",
             "result": {
               "status": "passed",
-              "duration": 546000000
+              "duration": 521000000
             }
           }
         ]
@@ -283,7 +283,7 @@
             "name": "Click On Destination Options",
             "result": {
               "status": "passed",
-              "duration": 1475000000
+              "duration": 1081000000
             }
           },
           {
@@ -293,7 +293,7 @@
             "name": "Enter \"Ind\" in the Destination Input box",
             "result": {
               "status": "passed",
-              "duration": 493000000
+              "duration": 723000000
             }
           },
           {
@@ -303,7 +303,7 @@
             "name": "Select India Option from List",
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 143000000
             }
           },
           {
@@ -313,7 +313,7 @@
             "name": "Next Button For Destinations Should be Enabled",
             "result": {
               "status": "passed",
-              "duration": 76000000
+              "duration": 62000000
             }
           },
           {
@@ -323,7 +323,7 @@
             "name": "Enter \"Sin\" in the Destination Input box",
             "result": {
               "status": "passed",
-              "duration": 439000000
+              "duration": 541000000
             }
           },
           {
@@ -333,7 +333,7 @@
             "name": "Select Singapore option From List",
             "result": {
               "status": "passed",
-              "duration": 144000000
+              "duration": 113000000
             }
           },
           {
@@ -343,7 +343,7 @@
             "name": "Travel Warning Should be displayed",
             "result": {
               "status": "passed",
-              "duration": 77000000
+              "duration": 38000000
             }
           },
           {
@@ -353,7 +353,7 @@
             "name": "Destinations Title Text Should have Country Names Selected \"India, Singapore\"",
             "result": {
               "status": "passed",
-              "duration": 106000000
+              "duration": 91000000
             }
           },
           {
@@ -363,7 +363,7 @@
             "name": "Click on Next Button For Destinations",
             "result": {
               "status": "passed",
-              "duration": 317000000
+              "duration": 470000000
             }
           },
           {
@@ -373,7 +373,7 @@
             "name": "Destinations Content Should be Hidden and Treveller Content Should be Visible",
             "result": {
               "status": "passed",
-              "duration": 608000000
+              "duration": 527000000
             }
           }
         ]
@@ -393,7 +393,7 @@
             "name": "Click Back Button",
             "result": {
               "status": "passed",
-              "duration": 1961000000
+              "duration": 1425000000
             }
           },
           {
@@ -403,7 +403,7 @@
             "name": "Delete All Already Selected Destinations",
             "result": {
               "status": "passed",
-              "duration": 799000000
+              "duration": 1031000000
             }
           },
           {
@@ -413,7 +413,7 @@
             "name": "Select Japan,Thailand,India - \"JP\",\"TH\",\"IN\" From Popular Destinations",
             "result": {
               "status": "passed",
-              "duration": 547000000
+              "duration": 672000000
             }
           },
           {
@@ -423,7 +423,7 @@
             "name": "Travel Warning Should be displayed",
             "result": {
               "status": "passed",
-              "duration": 73000000
+              "duration": 55000000
             }
           },
           {
@@ -433,7 +433,7 @@
             "name": "Destinations Title Text Should have Country Names Selected \"Japan, Thailand, India\"",
             "result": {
               "status": "passed",
-              "duration": 117000000
+              "duration": 89000000
             }
           },
           {
@@ -443,7 +443,7 @@
             "name": "Delete \"Thailand\" From Selected Countries",
             "result": {
               "status": "passed",
-              "duration": 490000000
+              "duration": 515000000
             }
           },
           {
@@ -453,7 +453,7 @@
             "name": "Click on Next Button For Destinations",
             "result": {
               "status": "passed",
-              "duration": 486000000
+              "duration": 417000000
             }
           },
           {
@@ -463,7 +463,7 @@
             "name": "Destinations Content Should be Hidden and Treveller Content Should be Visible",
             "result": {
               "status": "passed",
-              "duration": 532000000
+              "duration": 546000000
             }
           }
         ]
@@ -483,7 +483,7 @@
             "name": "Travellers Content Should Be Visible",
             "result": {
               "status": "passed",
-              "duration": 972000000
+              "duration": 968000000
             }
           },
           {
@@ -493,7 +493,7 @@
             "name": "Next Button Should Be Disabled",
             "result": {
               "status": "passed",
-              "duration": 78000000
+              "duration": 45000000
             }
           },
           {
@@ -503,7 +503,7 @@
             "name": "Click Drop Down For Adults",
             "result": {
               "status": "passed",
-              "duration": 298000000
+              "duration": 332000000
             }
           },
           {
@@ -513,7 +513,7 @@
             "name": "Select \"2\" Adults From List",
             "result": {
               "status": "passed",
-              "duration": 215000000
+              "duration": 208000000
             }
           },
           {
@@ -523,7 +523,7 @@
             "name": "2 Adult Age Input Boxes Should Be Visible",
             "result": {
               "status": "passed",
-              "duration": 215000000
+              "duration": 169000000
             }
           },
           {
@@ -533,7 +533,7 @@
             "name": "Should Display Message \"Enter adult traveller ages based on their age today. Adults must be aged between 18 and 118.\"",
             "result": {
               "status": "passed",
-              "duration": 73000000
+              "duration": 44000000
             }
           },
           {
@@ -543,7 +543,7 @@
             "name": "Enter \"45\" And \"41\" in Age Input Boxes",
             "result": {
               "status": "passed",
-              "duration": 798000000
+              "duration": 962000000
             }
           },
           {
@@ -553,7 +553,7 @@
             "name": "Click Drop Down For Kids",
             "result": {
               "status": "passed",
-              "duration": 312000000
+              "duration": 338000000
             }
           },
           {
@@ -563,7 +563,7 @@
             "name": "Select \"4\" Kids From List",
             "result": {
               "status": "passed",
-              "duration": 212000000
+              "duration": 175000000
             }
           },
           {
@@ -573,7 +573,7 @@
             "name": "Next Button Should be Enabled",
             "result": {
               "status": "passed",
-              "duration": 77000000
+              "duration": 43000000
             }
           },
           {
@@ -583,7 +583,7 @@
             "name": "Travellers Title Should have Text \"2 Adults , 4 Children\"",
             "result": {
               "status": "passed",
-              "duration": 121000000
+              "duration": 88000000
             }
           },
           {
@@ -593,7 +593,7 @@
             "name": "Click On Next Button",
             "result": {
               "status": "passed",
-              "duration": 331000000
+              "duration": 338000000
             }
           },
           {
@@ -603,7 +603,7 @@
             "name": "Travellers Content Should Be Hidden and Discount Content Should Be Visible",
             "result": {
               "status": "passed",
-              "duration": 553000000
+              "duration": 576000000
             }
           }
         ]
@@ -623,7 +623,7 @@
             "name": "Click on Member Yes Option",
             "result": {
               "status": "passed",
-              "duration": 1196000000
+              "duration": 1291000000
             }
           },
           {
@@ -633,7 +633,7 @@
             "name": "Discount Title Should have Text \"5% Member Discount\"",
             "result": {
               "status": "passed",
-              "duration": 132000000
+              "duration": 123000000
             }
           },
           {
@@ -643,7 +643,7 @@
             "name": "Click on Member No Option",
             "result": {
               "status": "passed",
-              "duration": 275000000
+              "duration": 328000000
             }
           },
           {
@@ -653,7 +653,7 @@
             "name": "Discount Title Should have Text \"No Discount\"",
             "result": {
               "status": "passed",
-              "duration": 129000000
+              "duration": 115000000
             }
           },
           {
@@ -663,7 +663,7 @@
             "name": "Get Quote Button Should Be Enabled",
             "result": {
               "status": "passed",
-              "duration": 61000000
+              "duration": 24000000
             }
           }
         ]
@@ -683,7 +683,7 @@
             "name": "Clicks On Get Quote",
             "result": {
               "status": "passed",
-              "duration": 10595000000
+              "duration": 10690000000
             }
           },
           {
@@ -693,7 +693,7 @@
             "name": "Type Of Insurance Should Be \"Holiday\"",
             "result": {
               "status": "passed",
-              "duration": 10087000000
+              "duration": 6681000000
             }
           },
           {
@@ -703,7 +703,7 @@
             "name": "Type Of Trip Should Be \"Single Trip\"",
             "result": {
               "status": "passed",
-              "duration": 61000000
+              "duration": 58000000
             }
           },
           {
@@ -713,7 +713,7 @@
             "name": "Date Of Trip Should Be \"25/06/2022 to 17/09/2022\"",
             "result": {
               "status": "passed",
-              "duration": 62000000
+              "duration": 61000000
             }
           },
           {
@@ -723,7 +723,7 @@
             "name": "Destinations Selected Should Be \"Japan, India\"",
             "result": {
               "status": "passed",
-              "duration": 54000000
+              "duration": 63000000
             }
           },
           {
@@ -733,7 +733,7 @@
             "name": "Number Of Travellers Should Be \"2 Adults , 4 Children\"",
             "result": {
               "status": "passed",
-              "duration": 62000000
+              "duration": 37000000
             }
           },
           {
@@ -743,7 +743,7 @@
             "name": "Discount Applied Should Be \"No Discount\"",
             "result": {
               "status": "passed",
-              "duration": 55000000
+              "duration": 42000000
             }
           },
           {
@@ -753,7 +753,7 @@
             "name": "Insurance Premium Should Be Same at both Places",
             "result": {
               "status": "passed",
-              "duration": 214000000
+              "duration": 239000000
             }
           }
         ]
