@@ -84,5 +84,5 @@ Feature: Holiday Insurance
         And Destinations Selected Should Be "Japan, India"
         And Number Of Travellers Should Be "2 Adults , 4 Children"
         And Discount Applied Should Be "No Discount"
-        #And Insurance Premium Should Be "$967.25"
+        And Insurance Premium Should Be Same at both Places
 

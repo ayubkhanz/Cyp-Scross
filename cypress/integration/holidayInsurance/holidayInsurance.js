@@ -213,8 +213,8 @@ When('Clicks On Get Quote', ()=>{
 Then('Type Of Insurance Should Be {string}', (typeOfIns) => {
     quotePage.get_quoteSummary(1).should('contain', typeOfIns)
 })
-And('Type Of Trip Should Be {string}', (typeOfTripe) => {
-    quotePage.get_quoteSummary(2).should('contain', typeOfTripe)
+And('Type Of Trip Should Be {string}', (typeOfTrip) => {
+    quotePage.get_quoteSummary(2).should('contain', typeOfTrip)
 }) 
 And('Date Of Trip Should Be {string}', (tripDates) => {
     quotePage.get_quoteSummary(3).should('contain', tripDates)
@@ -230,8 +230,8 @@ And('Discount Applied Should Be {string}', (discount) => {
     quotePage.get_quoteSummary(6).should('contain', discount)
 
 })   
-And('Insurance Premium Should Be {string}', (price2) => {
-    quotePage.get_quotePrice(price2)
+And('Insurance Premium Should Be Same at both Places', () => {
+    quotePage.get_quotePrice()
 })
 /*/('', () => {})   */
 /*('', () => {})   */
