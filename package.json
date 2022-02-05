@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypChrome": "cypress run  --browser Chrome  --spec cypress/integration/*.feature "
+    "cypChrome": "cypress run  --browser friefox  --spec cypress/integration/*.feature "
   },
   "keywords": [
     "cypress",
